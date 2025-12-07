@@ -2,6 +2,7 @@
 
 Um pequeno app React para realizar um sorteio de amigo secreto (Secret Santa).<br>
 Criado para o desafio número 4 da comunidade Café Bugado
+<img width="1844" height="991" alt="image" src="https://github.com/user-attachments/assets/874f02ba-5ee0-4a28-a783-1c6370c9341a" />
 
 ## Tecnologias utilizadas
 
